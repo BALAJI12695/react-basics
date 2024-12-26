@@ -58,9 +58,9 @@ function App() {
 
     <div className="App">
 
-       {/* <Functional age={age} company="Microsoft" bio={bio} product={product} />
+       { <Functional age={age} company="Microsoft" bio={bio} product={product} />
 
-      <Class studentInfo={studentInfo} />
+     /*  <Class studentInfo={studentInfo} />
 
       <Form />
       
@@ -130,7 +130,7 @@ function App() {
 
       <ApiReq /> */}
 
-      <Sample />
+      {/* <Sample /> */}
 
 
     </div>

@@ -30,10 +30,10 @@ const Functional = (props) => {
 
         <h4> Bio - Data </h4>
 
-        <p> Name : {props.bio.name} </p>
-        <p> Age : {props.bio.age} </p>
-        <p> Role : {props.bio.role} </p>
-        <p> Company : {props.bio.company} </p>
+        <p> Name : {props.bio.myname} </p>
+        <p> Age : {props.bio.myage} </p>
+        <p> Role : {props.bio.myrole} </p>
+        <p> Company : {props.bio.mycompany} </p>
         <p> Marital status : {props.bio.ismarried ? "Yes": "No"} </p>
         
         <h4> Bio - Data </h4>
